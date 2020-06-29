@@ -13,5 +13,9 @@ public class Demo1 {
         System.out.println("Hello Idea Git project ");
     }
 
+    public void test(){
+        System.out.println("test");
+    }
+
 
 }
