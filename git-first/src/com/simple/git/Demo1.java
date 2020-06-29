@@ -15,6 +15,8 @@ public class Demo1 {
 
     public void test(){
         System.out.println("test");
+
+        System.out.println("clone之后的代码修改100行");
     }
 
 
